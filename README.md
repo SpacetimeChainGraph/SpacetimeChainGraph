@@ -25,12 +25,12 @@ STCG powers smart societies, semantic governance, verified identity coordination
 ---
 
 ## 📂 Project Structure
-/contracts/        → Smart contracts: identity, DAO, claim logic
-/modules/          → AI validators, fork scoring, NLP agents
-/wallet-ui/        → Gasless wallet app + referral dashboard
-/dashboard/        → Governance visualizer + fork timeline
-/testnet/          → Node runner, faucet, snapshot monitor
-/docs/             → Whitepaper, license, manifestos
+/contracts/        → Smart contracts: identity, DAO, claim logic                                                   
+/modules/          → AI validators, fork scoring, NLP agents                                                       
+/wallet-ui/        → Gasless wallet app + referral dashboard                                                       
+/dashboard/        → Governance visualizer + fork timeline                                                         
+/testnet/          → Node runner, faucet, snapshot monitor                                                         
+/docs/             → Whitepaper, license, manifestos                                                               
 
 ---
 
